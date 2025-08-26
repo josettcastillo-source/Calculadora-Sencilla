@@ -1,10 +1,10 @@
 
 export function addTwoNumbers(x , y){
-  console.log(a + b)
+  console.log(x + y)
     return x + y 
 }
-    console.log(2, 3);
-    console.log(-2, -3);
-    console.log(13, 26);
-    console.log(-10, 30);
+    console.log(addTwoNumbers(2, 3));
+    console.log(addTwoNumbers(-2, -3));
+    console.log(addTwoNumbers(13, 26));
+    console.log(addTwoNumbers(-10, 30));
  
